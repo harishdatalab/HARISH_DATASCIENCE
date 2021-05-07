@@ -1,2 +1,2 @@
 # HARISH_DATASCIENCE
-Come fall in love with learning
+Let the data decide the future
